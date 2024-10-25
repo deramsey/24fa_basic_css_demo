@@ -1,0 +1,32 @@
+body {
+    background-color: #d15c00;
+    font-family: "Verdana", sans-serif;
+}
+
+main{
+    background-color: white;
+    font-size: 24px;
+}
+
+h1{
+    color: #ffdfa1;
+    font-size: 64px;
+}
+
+h2 {
+    color: #d15c00;
+    font-size: 2rem;
+}
+
+h1, h2{
+    font-family: "Brush Script", cursive;
+    text-align: center;
+    text-decoration: underline wavy #aa7f1f;
+    text-transform: uppercase;
+}
+
+p {
+    font-size: 1.3rem;
+    text-indent: 36px;
+    line-height: 48px;
+}
